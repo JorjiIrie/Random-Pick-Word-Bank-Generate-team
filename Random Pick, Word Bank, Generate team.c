@@ -1,15 +1,3 @@
-/*               FINAL GROUP PROJECT
-                  BSCS-1AB-M (STEM)
-                COMPUTER PROGRAMMING PROJECT
-                    PROF. ELANIE VIZCONDE
-
-    Project Description:                    LEADER: DANS, JEORGE IREY G.
-        Random Pick/Generator               MEMBERS:
-        Word bank                                   GEPANAYAO, IVAN
-        Save the generated team                     NACARIO, CHRISTIAN
-                                                    SEMBLANTE, NASH
-*/
-
 //Global Declarations (Header files)
 #include <stdio.h>
 #include <stdlib.h>
